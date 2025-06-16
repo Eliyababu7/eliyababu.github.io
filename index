@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Eliya Babu Portfolio</title>
+</head>
+<body>
+  <h1>Hello, I'm Eliya Babu</h1>
+  <p>MSc in Data Science & AI | Full Stack Developer</p>
+
+  <h2>Projects</h2>
+  <ul>
+    <li><strong>Todo App:</strong> JavaScript project with local storage</li>
+    <li><strong>Wikipedia Search App:</strong> Used REST API to fetch and display results</li>
+    <li><strong>3D Game of Life:</strong> Unity-based simulation</li>
+  </ul>
+
+  <h2>Contact</h2>
+  <p>Email: eliyababu7@gmail.com | GitHub: github.com/eliyababu7</p>
+</body>
+</html>
